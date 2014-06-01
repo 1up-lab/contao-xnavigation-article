@@ -26,8 +26,8 @@
 		"contao-community-alliance/composer-plugin": "~2.0",
 		"contao-community-alliance/event-dispatcher": "~1.0",
 		"contao-community-alliance/events-create-options": "~1.0",
-		"bit3/contao-meta-palettes": "~1",
-		"bit3/contao-twig": ">=1.7,<2-dev"
+		"bit3/contao-xnavigation": "~2.0",
+		"bit3/contao-meta-palettes": "~1.0"
 	},
 	"require-dev": {
 		"bit3/php-coding-standard": "@dev"
